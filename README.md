@@ -11,3 +11,6 @@
 ```bash
 git clone git@github.com:shuklasaharsh/NN_DL_DA2.git
 ```
+
+## View the notebook
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shuklasaharsh/)
